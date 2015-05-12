@@ -1,0 +1,14 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}EL OBJETIVO DE ESTE LIBRO}{4}
+\contentsline {section}{\numberline {2}COMPORTAMIENTO RACIONAL DE INVE(NT/RS)ORES}{6}
+\contentsline {section}{\numberline {3}INVENTA COMO UNA STARTUP}{10}
+\contentsline {subsection}{\numberline {3.1}Las Leyes del Fracaso}{10}
+\contentsline {subsection}{\numberline {3.2}Jugando Inteligentemente}{17}
+\contentsline {subsection}{\numberline {3.3}Una llave en la caja de herramientas de la innovaci\'on}{30}
+\contentsline {section}{\numberline {4}INVIERTE COMO UN ADULTO}{32}
+\contentsline {subsection}{\numberline {4.1}No lo crea, demuestrelo}{32}
+\contentsline {subsection}{\numberline {4.2}Creando Confianza Incrementalmente}{41}
+\contentsline {subsection}{\numberline {4.3}Pretotyping para todo}{44}
+\contentsline {section}{\numberline {5}ANEXO 1 - HOJAS DE TRABAJO PRETOTYPING}{47}
+\contentsline {section}{\numberline {6}ANEXO 2 - ACERCA DEL AUTOR}{51}
+\contentsline {section}{\numberline {7}ANEXO 3 - ACERCA DE LA TRADUCCION}{52}
